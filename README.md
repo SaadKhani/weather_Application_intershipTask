@@ -1,1 +1,1 @@
-<img width="1920" height="1080" alt="weatherapp_internship_task" src="https://github.com/user-attachments/assets/31db20e1-5b01-4607-a4fb-211e15ccd4e4" />
+<img width="785" height="600" alt="weatherapp_internship_task" src="https://github.com/user-attachments/assets/de820e26-d259-49ca-b6fc-a7d1e83ed6df" />
